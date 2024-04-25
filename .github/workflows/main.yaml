@@ -1,3 +1,5 @@
+name: 'GH Action Training'
+
 on:
   push:
     branches: [ main ]
